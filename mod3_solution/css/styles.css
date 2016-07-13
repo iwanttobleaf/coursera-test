@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+hr {
+    margin: 0;
+}
+#nav-list {
+    margin: 0;
+}
+#collapsable-nav {
+    padding: 0;
+}
+/* styling text elements */
+a {
+    font-size: 1.5em;
+}
+h1 {
+    margin: 25px 0px 25px 0px;
+    font-size: 2em;
+    text-align: center;
+}
+h3 {
+    margin-top: -30px;
+    padding: 10px;
+    font-size: 1.5em;
+}
+#linktotop {
+    font-size: 1em;
+}
+/* declaring the classes/styling menu tiles */
+.section {
+    background-color: #c0c0c0;
+    border: 1px solid black;
+    position: relative;
+    min-height: 700px;
+    margin: 0px auto 25px 0px;
+    padding: 30px;
+    padding-top: 40px;
+    min-width: 250px;
+    overflow: hidden;
+}
